@@ -1,0 +1,2 @@
+# tanulas
+Izzadás.
